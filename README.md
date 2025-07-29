@@ -27,20 +27,15 @@ Welcome to **Spotify Clone** – a sleek, responsive, and simple music UI websit
 1. 🍴 Fork this repo  
 2. 📥 Clone the repo  
    ```bash
-   git clone https://github.com/arhxn-xhmd/Spotify-Clone.git
+   git clone https://github.com/arhxn-xhmd/Spotify-Clone.git```
 
 3. 🚀 Open index.html in your browser
 
-
-
 > That’s it! No build tools needed.
-
-
-
 
 ---
 
-📥 Downloading Songs via Python
+### 📥 Downloading Songs via Python
 
 This project includes a Python script to help you download songs.
 
@@ -69,7 +64,7 @@ This script will handle downloading and placing songs into the appropriate folde
 
 ---
 
-🧾 Todo / Improvements
+### 🧾 Todo / Improvements
 
 [ ] Add real audio playback 🎧
 
@@ -83,14 +78,14 @@ This script will handle downloading and placing songs into the appropriate folde
 
 ---
 
-💡 Inspiration
+### 💡 Inspiration
 
 This project is inspired by the Spotify UI – purely for educational and portfolio purposes. Not for commercial use.
 
 
 ---
 
-🙌 Contributing
+### 🙌 Contributing
 
 Contributions are welcome!
 
@@ -110,19 +105,12 @@ Contributions are welcome!
 
 ---
 
-⭐ Show Your Support
+### ⭐ Show Your Support
 
 If you like this project, consider giving it a ⭐ star on GitHub — it means a lot!
 
 
 ---
 
-Made with 💚 by Arhaan Ahmed
-
----
-
-Let me know if you'd like me to:
-- Add a sample `main.py` description
-- Include Python requirements
-- Or format this for GitHub Pages display
+**Made with 💚 by Arhaan Ahmed**
 
