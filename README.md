@@ -27,7 +27,7 @@ Welcome to **Spotify Clone** – a sleek, responsive, and simple music UI websit
 1. 🍴 Fork this repo  
 2. 📥 Clone the repo  
    ```bash
-   git clone https://github.com/arhxn-xhmd/Spotify-Clone.git```
+   git clone https://github.com/arhxn-xhmd/Spotify-Clone.git
 
 3. 🚀 Open index.html in your browser
 
@@ -44,14 +44,10 @@ This project includes a Python script to help you download songs.
 1. Make sure Python is installed.
 
 
-2. Navigate to the python folder:
-
-cd Spotify-Clone/python
+2. Navigate to the python folder: cd Spotify-Clone/python
 
 
-3. Run the script:
-
-python main.py
+3. Run the script: python main.py
 
 
 
